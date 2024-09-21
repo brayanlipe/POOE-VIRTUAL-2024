@@ -9,6 +9,8 @@
         Dim num2 As Double
         num2 = Console.ReadLine
 
+
+
         Console.WriteLine("la suma de los dos numero es: " & num1 + num2)
 
 
