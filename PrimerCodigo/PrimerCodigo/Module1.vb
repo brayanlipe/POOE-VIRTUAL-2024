@@ -3,7 +3,7 @@
     Sub Main()
         Console.WriteLine("ingrese num1")
         Dim num1 As Double
-        num1 = Console.ReadLine
+        num1 = Console.ReadLine  ' double.parse(console.readLine()) esta lienea me permite almacenar en la variable sino me da una suma decimal '
 
         Console.WriteLine("ingrese el num2")
         Dim num2 As Double

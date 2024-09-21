@@ -1,0 +1,11 @@
+C:\Users\braya\OneDrive\Escritorio\proyecto POOE\MayorDeTresNumeros\MayorDeTresNumeros\bin\Debug\MayorDeTresNumeros.exe.config
+C:\Users\braya\OneDrive\Escritorio\proyecto POOE\MayorDeTresNumeros\MayorDeTresNumeros\bin\Debug\MayorDeTresNumeros.exe
+C:\Users\braya\OneDrive\Escritorio\proyecto POOE\MayorDeTresNumeros\MayorDeTresNumeros\bin\Debug\MayorDeTresNumeros.pdb
+C:\Users\braya\OneDrive\Escritorio\proyecto POOE\MayorDeTresNumeros\MayorDeTresNumeros\bin\Debug\MayorDeTresNumeros.xml
+C:\Users\braya\OneDrive\Escritorio\proyecto POOE\MayorDeTresNumeros\MayorDeTresNumeros\obj\Debug\MayorDeTresNumeros.vbproj.AssemblyReference.cache
+C:\Users\braya\OneDrive\Escritorio\proyecto POOE\MayorDeTresNumeros\MayorDeTresNumeros\obj\Debug\MayorDeTresNumeros.Resources.resources
+C:\Users\braya\OneDrive\Escritorio\proyecto POOE\MayorDeTresNumeros\MayorDeTresNumeros\obj\Debug\MayorDeTresNumeros.vbproj.GenerateResource.cache
+C:\Users\braya\OneDrive\Escritorio\proyecto POOE\MayorDeTresNumeros\MayorDeTresNumeros\obj\Debug\MayorDeTresNumeros.vbproj.CoreCompileInputs.cache
+C:\Users\braya\OneDrive\Escritorio\proyecto POOE\MayorDeTresNumeros\MayorDeTresNumeros\obj\Debug\MayorDeTresNumeros.exe
+C:\Users\braya\OneDrive\Escritorio\proyecto POOE\MayorDeTresNumeros\MayorDeTresNumeros\obj\Debug\MayorDeTresNumeros.xml
+C:\Users\braya\OneDrive\Escritorio\proyecto POOE\MayorDeTresNumeros\MayorDeTresNumeros\obj\Debug\MayorDeTresNumeros.pdb
