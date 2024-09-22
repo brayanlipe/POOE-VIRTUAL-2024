@@ -1,0 +1,11 @@
+C:\Users\braya\OneDrive\Escritorio\proyecto POOE\DescuentoProducto\DescuentoProducto\bin\Debug\DescuentoProducto.exe.config
+C:\Users\braya\OneDrive\Escritorio\proyecto POOE\DescuentoProducto\DescuentoProducto\bin\Debug\DescuentoProducto.exe
+C:\Users\braya\OneDrive\Escritorio\proyecto POOE\DescuentoProducto\DescuentoProducto\bin\Debug\DescuentoProducto.pdb
+C:\Users\braya\OneDrive\Escritorio\proyecto POOE\DescuentoProducto\DescuentoProducto\bin\Debug\DescuentoProducto.xml
+C:\Users\braya\OneDrive\Escritorio\proyecto POOE\DescuentoProducto\DescuentoProducto\obj\Debug\DescuentoProducto.vbproj.AssemblyReference.cache
+C:\Users\braya\OneDrive\Escritorio\proyecto POOE\DescuentoProducto\DescuentoProducto\obj\Debug\DescuentoProducto.Resources.resources
+C:\Users\braya\OneDrive\Escritorio\proyecto POOE\DescuentoProducto\DescuentoProducto\obj\Debug\DescuentoProducto.vbproj.GenerateResource.cache
+C:\Users\braya\OneDrive\Escritorio\proyecto POOE\DescuentoProducto\DescuentoProducto\obj\Debug\DescuentoProducto.vbproj.CoreCompileInputs.cache
+C:\Users\braya\OneDrive\Escritorio\proyecto POOE\DescuentoProducto\DescuentoProducto\obj\Debug\DescuentoProducto.exe
+C:\Users\braya\OneDrive\Escritorio\proyecto POOE\DescuentoProducto\DescuentoProducto\obj\Debug\DescuentoProducto.xml
+C:\Users\braya\OneDrive\Escritorio\proyecto POOE\DescuentoProducto\DescuentoProducto\obj\Debug\DescuentoProducto.pdb

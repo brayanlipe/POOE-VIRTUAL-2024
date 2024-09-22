@@ -3,7 +3,7 @@
     Sub Main()
         Dim num1, num2, num3 As Integer
         Dim mayor As Integer
-        Dim iguales As String
+
 
         Console.WriteLine("ingrese el primer numero")
         num1 = Console.ReadLine()
