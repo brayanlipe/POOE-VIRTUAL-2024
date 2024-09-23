@@ -1,0 +1,11 @@
+C:\Users\braya\OneDrive\Escritorio\proyecto POOE\SumaNumerosNaturalez\SumaNumerosNaturalez\bin\Debug\SumaNumerosNaturalez.exe.config
+C:\Users\braya\OneDrive\Escritorio\proyecto POOE\SumaNumerosNaturalez\SumaNumerosNaturalez\bin\Debug\SumaNumerosNaturalez.exe
+C:\Users\braya\OneDrive\Escritorio\proyecto POOE\SumaNumerosNaturalez\SumaNumerosNaturalez\bin\Debug\SumaNumerosNaturalez.pdb
+C:\Users\braya\OneDrive\Escritorio\proyecto POOE\SumaNumerosNaturalez\SumaNumerosNaturalez\bin\Debug\SumaNumerosNaturalez.xml
+C:\Users\braya\OneDrive\Escritorio\proyecto POOE\SumaNumerosNaturalez\SumaNumerosNaturalez\obj\Debug\SumaNumerosNaturalez.vbproj.AssemblyReference.cache
+C:\Users\braya\OneDrive\Escritorio\proyecto POOE\SumaNumerosNaturalez\SumaNumerosNaturalez\obj\Debug\SumaNumerosNaturalez.Resources.resources
+C:\Users\braya\OneDrive\Escritorio\proyecto POOE\SumaNumerosNaturalez\SumaNumerosNaturalez\obj\Debug\SumaNumerosNaturalez.vbproj.GenerateResource.cache
+C:\Users\braya\OneDrive\Escritorio\proyecto POOE\SumaNumerosNaturalez\SumaNumerosNaturalez\obj\Debug\SumaNumerosNaturalez.vbproj.CoreCompileInputs.cache
+C:\Users\braya\OneDrive\Escritorio\proyecto POOE\SumaNumerosNaturalez\SumaNumerosNaturalez\obj\Debug\SumaNumerosNaturalez.exe
+C:\Users\braya\OneDrive\Escritorio\proyecto POOE\SumaNumerosNaturalez\SumaNumerosNaturalez\obj\Debug\SumaNumerosNaturalez.xml
+C:\Users\braya\OneDrive\Escritorio\proyecto POOE\SumaNumerosNaturalez\SumaNumerosNaturalez\obj\Debug\SumaNumerosNaturalez.pdb
