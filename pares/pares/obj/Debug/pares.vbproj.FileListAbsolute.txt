@@ -1,0 +1,11 @@
+C:\Users\braya\OneDrive\Escritorio\proyecto POOE\pares\pares\bin\Debug\pares.exe.config
+C:\Users\braya\OneDrive\Escritorio\proyecto POOE\pares\pares\bin\Debug\pares.exe
+C:\Users\braya\OneDrive\Escritorio\proyecto POOE\pares\pares\bin\Debug\pares.pdb
+C:\Users\braya\OneDrive\Escritorio\proyecto POOE\pares\pares\bin\Debug\pares.xml
+C:\Users\braya\OneDrive\Escritorio\proyecto POOE\pares\pares\obj\Debug\pares.vbproj.AssemblyReference.cache
+C:\Users\braya\OneDrive\Escritorio\proyecto POOE\pares\pares\obj\Debug\pares.Resources.resources
+C:\Users\braya\OneDrive\Escritorio\proyecto POOE\pares\pares\obj\Debug\pares.vbproj.GenerateResource.cache
+C:\Users\braya\OneDrive\Escritorio\proyecto POOE\pares\pares\obj\Debug\pares.vbproj.CoreCompileInputs.cache
+C:\Users\braya\OneDrive\Escritorio\proyecto POOE\pares\pares\obj\Debug\pares.exe
+C:\Users\braya\OneDrive\Escritorio\proyecto POOE\pares\pares\obj\Debug\pares.xml
+C:\Users\braya\OneDrive\Escritorio\proyecto POOE\pares\pares\obj\Debug\pares.pdb
